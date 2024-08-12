@@ -24,4 +24,4 @@ public:
     }
 };
 
-<img src="dsa.jpge" alt="Girl in a jacket" width="500" height="600">
+<img src="dsa.jpge.png" alt="Girl in a jacket" width="500" height="600">
